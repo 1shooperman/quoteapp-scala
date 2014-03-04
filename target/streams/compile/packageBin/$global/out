@@ -1,0 +1,17 @@
+[0m[[0minfo[0m] [0mPackaging /home/bshoop/dev/quotes/target/scala-2.10/quotessbt_2.10-1.0.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	quotes$.class[0m
+[0m[[0mdebug[0m] [0m	  /home/bshoop/dev/quotes/target/scala-2.10/classes/quotes$.class[0m
+[0m[[0mdebug[0m] [0m	lib/db.class[0m
+[0m[[0mdebug[0m] [0m	  /home/bshoop/dev/quotes/target/scala-2.10/classes/lib/db.class[0m
+[0m[[0mdebug[0m] [0m	quotes.class[0m
+[0m[[0mdebug[0m] [0m	  /home/bshoop/dev/quotes/target/scala-2.10/classes/quotes.class[0m
+[0m[[0mdebug[0m] [0m	lib[0m
+[0m[[0mdebug[0m] [0m	  /home/bshoop/dev/quotes/target/scala-2.10/classes/lib[0m
+[0m[[0mdebug[0m] [0m	quotes$delayedInit$body.class[0m
+[0m[[0mdebug[0m] [0m	  /home/bshoop/dev/quotes/target/scala-2.10/classes/quotes$delayedInit$body.class[0m
+[0m[[0mdebug[0m] [0m	lib/mysql$$anonfun$close$1.class[0m
+[0m[[0mdebug[0m] [0m	  /home/bshoop/dev/quotes/target/scala-2.10/classes/lib/mysql$$anonfun$close$1.class[0m
+[0m[[0mdebug[0m] [0m	lib/mysql.class[0m
+[0m[[0mdebug[0m] [0m	  /home/bshoop/dev/quotes/target/scala-2.10/classes/lib/mysql.class[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m
